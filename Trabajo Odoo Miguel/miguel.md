@@ -7,7 +7,7 @@ Para acceder a los usuarios entramos en **Ajustes**.
 
 ![Irusuarios](./IMG/Irusuarios.png)
 
-Y le damos a usuarios.
+Y le damos a **usuarios**.
 
 ![Iruser](./IMG/Iruser.png)
 
@@ -15,7 +15,7 @@ Seguido clicamos en nuevo.
 
 ![Crearuser](./IMG/Crearuser.png)
 
-Y creamos los usuarios que deseemos, en nuestro caso creamos a Ulises y Angel.
+Y creamos los usuarios que deseemos, en nuestro caso creamos a **Ulises y Angel**.
 
 ![Angel](./IMG/Angel.png)
 
@@ -27,16 +27,17 @@ Este sería el resultado de su creación:
 
 ## Creación de empleados
 
-A la hora de crear empleados usaremos nuestros nombres y puestos de trabajo, (Ulises y Angel son usuarios y empleados),Angel sería el secretario, Hafsa investigadora, Ulises Implementador y Miguel sería el administrador.
+A la hora de crear empleados usaremos nuestros nombres y puestos de trabajo, (Ulises y Angel son usuarios y empleados),Angel sería el **secretario**, Hafsa **investigadora**, Ulises **Implementador** y Miguel sería el **administrador**.
+
 Clickamos en el apartado **Empleados**.
 
 ![Irempleados](./IMG/Irempleado.png)
 
-Y clickamos en nuevo empleado.
+Y clickamos en **nuevo empleado**.
 
 ![Crearempleado](./IMG/Crearempleado.png)
 
-Crearemos a los empleados Hafsa y Miguel.
+Crearemos a los empleados **Hafsa y Miguel**.
 
 ![Hafsa](./IMG/Hafsa.png)
 
@@ -48,17 +49,17 @@ Este sería el resultado de la creación de empleados:
 
 ## Creación de Clientes y Compañías
 
-Para este apartado crearemos dos compañias que son clientes y dos individuos que pertenecen a dichas compañías (En nuestro caso hemos añadido 4 individuos).
+Para este apartado crearemos dos **compañias** que son clientes y dos **individuos** que pertenecen a dichas compañías (En nuestro caso hemos añadido 4 individuos).
 
 Para acceder a los clientes y compañías clickamos en **ventas**
 
 ![Ircliente](./IMG/Ircliente.png)
 
-Le damos a nuevo cliente.
+Le damos a **nuevo cliente**.
 
 ![Crearcliente](./IMG/Crearcliente.png)
 
-Seguido Creamos las dos compañías, en nuestro caso Las Palmas FC y XBOX (En la imagen se llama XVOX pero lo corregimos).
+Seguido Creamos las dos compañías, en nuestro caso **Las Palmas FC y XBOX** (En la imagen se llama XVOX pero lo corregimos).
 
 ![Laspalmas](./IMG/Laspalmas.png)
 
@@ -68,13 +69,13 @@ Seguido Creamos las dos compañías, en nuestro caso Las Palmas FC y XBOX (En la
 
 Y los individuos que le pertenecen a sus compañías:
 
-Para Las palmas Alex Muñoz y Alvaro Valles:
+Para Las palmas **Alex Muñoz y Alvaro Valles**:
 
 ![Alex](./IMG/Alex.png)
 
 ![Alvaro](./IMG/Alvaro.png)
 
-Y para XBOX crearemos a Santiago Abascal y Pedro Sanchez:
+Y para XBOX crearemos a **Santiago Abascal y Pedro Sanchez**:
 
 ![Santiago](./IMG/Santiago.png)
 
@@ -90,13 +91,13 @@ Esta sería la vista final de los clientes.
 
 ## Creación de proveedores
 
-En este apartado crearemos dos proveedores, en nuestro caso nos proveen Nike y Riot Games.
+En este apartado crearemos dos **proveedores**, en nuestro caso nos proveen **Nike y Riot Games**.
 
 Para acceder a los proveedores vamos al apartado **Compra**.
 
 ![Irproveedor](./IMG/Irproveedor.png)
 
-Y le damos a nuevo proveedor.
+Y le damos a **nuevo proveedor**.
 
 ![Crearproveedor](./IMG/Crearproveedor.png)
 
