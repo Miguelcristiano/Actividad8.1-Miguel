@@ -27,7 +27,7 @@ Este sería el resultado de su creación:
 
 ## Creación de empleados
 
-A la hora de crear empleados usaremos nuestros nombres y puestos de trabajo, (Ulises y Angel son usuarios y empleados),Angel sería el **secretario**, Hafsa **investigadora**, Ulises **Implementador** y Miguel sería el **administrador**.
+A la hora de crear empleados usaremos nuestros nombres y puestos de trabajo, (Ulises y Angel son usuarios y empleados),Angel sería el **secretario**, Hafsa **investigadora**, Ulises **Implementador** y Miguel sería el **portavoz**.
 
 Clickamos en el apartado **Empleados**.
 
